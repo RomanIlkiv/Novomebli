@@ -1,0 +1,61 @@
+#wrap {
+	height: 2945px;
+}
+
+#kitchen_photos {
+	float: left;
+	margin-left: 90px;
+	width: 1100px;
+	text-align: center;
+}
+
+.kitchen_img1{
+	height: 110px;
+	margin: 5px;
+	box-shadow: 0px 0px 6px 2px black;
+	cursor: pointer;
+}
+
+#logo_photo {
+	float: left;
+	margin-bottom: 10px;
+}
+
+#description {
+	margin-bottom: 20px;
+}
+
+#logo_photo img {
+	width: 1100px;
+	margin-left: 87px;
+	box-shadow: 0px 0px 6px 2px black;
+}
+
+.right, .left {
+	width: 1000px;
+	float: left;
+	margin: 0 auto;
+	margin-left: 140px;
+	
+}
+
+.right img, .left img {
+	float: left;
+	width: 500px;
+	box-shadow: 0px 0px 6px 2px black;
+}
+
+.left img {
+	float: right;
+	margin-bottom: 20px;
+}
+
+.right .text, .left .text {
+	float: left;
+	width: 500px;
+	margin: 0;
+	height: 375px;
+	font-size: 25px;
+	padding-top: 35px;
+	box-shadow: 0px 0px 6px 2px black;
+}

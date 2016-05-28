@@ -1,0 +1,51 @@
+#wrap {
+	height: 4410px;
+}
+
+#logo_photo {
+	float: left;
+}
+
+#logo_photo img {
+	width: 1000px;
+	margin-left: 130px;
+	
+}
+
+#front_photos, #front_photos2, #front_photos3 {
+	float: left;
+	margin-left: 90px;
+	width: 1100px;
+	text-align: center;
+}
+
+.front_img1, .front_img2, .front_img3 {
+	height: 210px;
+	margin: 5px;
+	box-shadow: 0px 0px 6px 2px black;
+	cursor: pointer;
+}
+
+.open_photo p {
+	font-size: 40px;
+	font-family: "Text", sans-serif;
+	text-align: center;
+	z-index: 6;
+	color: #fff;
+	margin-top: -50px;
+	text-shadow: 0px 0px 5px black;
+}
+
+#logo_photo2 img {
+	width: 495px;
+	margin-left: 390px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+#logo_photo3 img {
+	width: 800px;
+	margin-left: 235px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
